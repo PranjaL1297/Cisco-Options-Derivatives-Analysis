@@ -38,7 +38,7 @@ The analysis addressed five key problems:
 
 ---
 
-## 👨‍💻 My Contributions (Pranjal Kharbanda)
+## 👨‍💻 My Contributions
 
 - Gathered Cisco options chain and market data from Yahoo Finance and CNBC
 - Computed implied volatilities using Excel and Solver
